@@ -5,10 +5,10 @@
         id        = "com.winix-eg.eduix"
         versionCode = "3"
         version   = "1.2">
-    <name>Learn Moodle</name>
+    <name>Eduix</name>
 
     <description>
-        Learn Moodle
+        Eduix Mobile
     </description>
 
     <author href="http://winix-eg.com" email="karim.mahmoud@winix-eg.com">
